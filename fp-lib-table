@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "coop_door_footprints")(type "KiCad")(uri "${KIPRJMOD}/coop_door_footprints.pretty")(options "")(descr ""))
+)
